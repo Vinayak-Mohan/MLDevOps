@@ -1,1 +1,1 @@
-# MLDevOps
+# MLDevOps Workshop 
